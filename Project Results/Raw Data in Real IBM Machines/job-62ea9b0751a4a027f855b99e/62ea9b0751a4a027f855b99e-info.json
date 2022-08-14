@@ -1,0 +1,11 @@
+{
+  "id": "62ea9b0751a4a027f855b99e",
+  "userId": "62ea98ceb893f27d67f1756b",
+  "status": "COMPLETED",
+  "creationDate": "2022-08-03T15:57:59.732Z",
+  "endDate": "2022-08-03T17:16:00.506Z",
+  "backend": {
+    "id": "62752cc029e3b710fc620be7",
+    "name": "ibm_oslo"
+  }
+}
