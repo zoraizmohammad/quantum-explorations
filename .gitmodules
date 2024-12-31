@@ -1,0 +1,3 @@
+[submodule "quantum-edupca"]
+	path = quantum-edupca
+	url = https://github.com/zoraizmohammad/quantum-edupca.git
